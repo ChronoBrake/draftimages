@@ -59,6 +59,7 @@
          "id":"Ahri",
          "key":"103",
          "name":"Ahri",
+         "pickrate":987,	
          "title":"the Nine-Tailed Fox",
          "blurb":"Innately connected to the latent power of Runeterra, Ahri is a vastaya who can reshape magic into orbs of raw energy. She revels in toying with her prey by manipulating their emotions before devouring their life essence. Despite her predatory nature...",
          "info":{
